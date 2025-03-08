@@ -67,7 +67,7 @@
     "three": "latest",
     "@react-three/fiber": "^8.15.16",
     "framer-motion": "latest",
-    "@react-three/drei": "latest",
+    "@react-three/drei": "^9.92.7",
     "ethers": "latest",
     "react-query": "latest",
     "react-scroll-parallax": "latest"
