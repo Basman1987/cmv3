@@ -65,7 +65,7 @@
     "expo-gl": "latest",
     "react-native": "latest",
     "three": "latest",
-    "@react-three/fiber": "latest",
+    "@react-three/fiber": "^8.15.16",
     "framer-motion": "latest",
     "@react-three/drei": "latest",
     "ethers": "latest",
